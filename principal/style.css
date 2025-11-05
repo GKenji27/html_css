@@ -9,7 +9,11 @@
   font-weight: 700;
   text-decoration: none;
 }*/
-
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 .img-thumb{
   width: 380px;
 }
